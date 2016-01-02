@@ -1,7 +1,7 @@
 name: lwnutrition
 favicon: null
-layout_spectrum: 0.7072801990434527
-typography_spectrum: 0.18432614183984697
+layout_spectrum: 0.28324
+typography_spectrum: 0.68529
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.11052564345300198
-  lightness: 0.5725702326744795
-  saturation: 0.3382388483732939
-  rhythmicContrast: 0.5691568851470947
+    - '#414141'
+    - '#00c900'
+    - '#009ade'
+    - '#000000'
+    - '#808080'
+  brandStrength: 0.0625
+  lightness: 0.9375
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
